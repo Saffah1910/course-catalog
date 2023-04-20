@@ -1,3 +1,11 @@
+//start by describing the function 
+//insdie the describe add another describe on what the function is doing
+//the first test will return R7850 if the course chose is python
+//the second test needs to apply the discount
+//the 3rd test will check if it is returnng invalid code 
+//the 4th test will check if it is returnng invalid day
+
+
 describe("courseCost function", function () {
     describe("calculate course cost & apply discount if applicable", function () {
         it("return R7850.00 if the course name is python", function () {
