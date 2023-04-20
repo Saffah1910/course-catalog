@@ -34,6 +34,7 @@ function tutorWageCalculator(timesheetString, level){
         }
     }
     return levelOne
+    // return
 
 
 
